@@ -1,0 +1,31 @@
+body {
+    background-color: #f5b7b1 ;
+    color: #5b2c6f;
+    font-size: 20px;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+nav {
+    background-color: #811eac;
+    padding: 20px 26px;
+    text-align: center;
+    margin: 20px;
+
+}
+
+nav a {
+    color: #0a030e;
+    text-decoration: none;
+    background: #c24af5;
+    border-radius: 8px;
+    padding: 7px;
+    margin: 9px;
+}
+
+footer {
+    background-color: #482955;
+    color: #0a030e;
+    text-align: center;
+    padding: 7px;
+}
